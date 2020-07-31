@@ -7,7 +7,7 @@ I'm working as a Full Stack Web Designer & Developer. I develop applications for
 - 🔭 I’m currently working on designing and developing Cartz application.
 - 🌱 I’m currently learning React Native.
 - 💬 Ask me about Javascript, React & Node.
-- 📫 Mail me: vivekkravindraa@gmail.com or Tweet me: [@vivekkravindraa](https://twitter.com/vivekkravindraa)
+- 📫 Mail me: vivekkravindraa@gmail.com or Tweet me: [@vivekkravindraa](https://www.twitter.com/vivekkravindraa)
 - 😄 Pronouns: He / Him
 - 🐣 Fun fact: I am trying to understand whether the egg has arrived first or the hen!
 
