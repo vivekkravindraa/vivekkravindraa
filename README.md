@@ -1,16 +1,14 @@
-### Hi there 👋
+<img src="https://github.com/vivekkravindraa/vivekkravindraa/blob/master/developerAtWork.png" alt="developerAtWork" />
 
-<!--
-**vivekkravindraa/vivekkravindraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello World! I'm Vivek 👋 🐝 🔥 💛
 
-Here are some ideas to get you started:
+I'm working as a Full Stack Web Designer & Developer. I develop applications for bread & butter. My passion resides in learning to code better. I'm a hard working JS proficient and specialized in MERN stack. Interested in building scalable and futuristic web and mobile applications. Eager to explore the mobile application development platform and build native applications. I'll only work with humble and polite people.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on designing and developing Cartz application.
+- 🌱 I’m currently learning React Native.
+- 💬 Ask me about Javascript, React & Node.
+- 📫 Mail me @ vivekkravindraa@gmail.com or Tweet me @ [@vivekkravindraa](twitter.com/vivekkravindraa)
+- 😄 Pronouns: He / Him
+- 🐣 Fun fact: I am trying to understand whether the egg has arrived first or the hen!
+
+:neckbeard: :bowtie: :octocat:
