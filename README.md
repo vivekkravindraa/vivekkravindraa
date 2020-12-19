@@ -2,9 +2,11 @@
 
 ### Hello World! I'm Vivek 👋 🐝 🔥 💛
 
-I'm working as a Full Stack Web Designer & Developer. I develop applications for bread & butter. My passion resides in learning to code better. I'm a hard working JS proficient and specialized in MERN stack. Interested in building scalable and futuristic web and mobile applications. Eager to explore the mobile application development platform and build native applications. I'll only work with humble and polite people.
+I'm working as a Full Stack Web Designer & Developer. I develop applications for bread & butter. My passion resides in learning to code better. I'm a hard working JS proficient and specialized in MERN stack. Interested in building scalable and futuristic web and mobile applications. Eager to explore the mobile application development platform and build native applications. I possess abilities such as: handling multiple aspects of the application development, guiding the juniors in the team and by resolving the complex scenarios by breaking them into stories and epics. Looking for remote opportunities that would bring me closer to the visions, keep me active and occupied with my time.
 
-- 🔭 I’m currently working on designing and developing Cartz application.
+NOTE: I'll only work with sensible humans.
+
+- 🔭 I’m currently working on designing and developing highly functional dashboards for seamless data visualization.
 - 🌱 I’m currently learning React Native.
 - 💬 Ask me about Javascript, React & Node.
 - 📫 Mail me: vivekkravindraa@gmail.com or Tweet me: [@vivekkravindraa](https://www.twitter.com/vivekkravindraa)
