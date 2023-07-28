@@ -9,7 +9,7 @@ NOTE: I'll only work with sensible humans.
 - 🔭 I’m currently working on designing and developing highly functional dashboards for seamless data visualization.
 - 🌱 I’m currently learning React Native.
 - 💬 Ask me about Javascript, React & Node.
-- 📫 Mail me: vivekkravindraa@gmail.com or Tweet me: [@vivekkravindraa](https://www.twitter.com/vivekkravindraa)
+- 📫 Mail me: vivekkravindraa@gmail.com
 - 😄 Pronouns: He / Him
 - 🐣 Fun fact: I am trying to understand whether the egg has arrived first or the hen!
 
