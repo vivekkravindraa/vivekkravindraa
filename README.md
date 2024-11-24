@@ -1,6 +1,6 @@
 <img src="https://github.com/vivekkravindraa/vivekkravindraa/blob/master/developerAtWork.png" alt="developerAtWork" />
 
-# Hello World! I'm Vivek 👋👨‍💻🔥 
+# Hello World! I'm Vivek 👋👨‍💻
 
 I am a seasoned Full Stack Web Developer with over 7 years of industry experience specializing in the MERN stack. My proficiency spans a range of technologies including JavaScript, React, Node.js, MongoDB (NoSQL), Express, HTML, and CSS. This breadth of knowledge enables me to craft bespoke web solutions that meet and exceed client expectations.
 
