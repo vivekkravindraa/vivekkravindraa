@@ -8,6 +8,8 @@ Throughout my career, I have been deeply engaged in all phases of the developmen
 
 I am enthusiastic about the opportunity to bring my expertise to your firm as a Full Stack Developer. Let us collaborate to develop cutting-edge web applications that push boundaries and drive success.
 
+Every role I’ve taken has been a purposeful step in my journey of growth and learning. I’m now eager to apply my experience and passion to a long-term opportunity where I can create meaningful impact and contribute to lasting success.
+
 - 💬 Ask me about Javascript, React, Node, Express & MongoDB (NoSQL).
 - 📫 Mail me: vivekkravindraa@gmail.com
 - 😄 Pronouns: He / Him
