@@ -2,13 +2,11 @@
 
 # Hello World! I'm Vivek 👋👨‍💻
 
-I am a seasoned Full Stack Web Developer with over 7 years of industry experience specializing in the MERN stack. My proficiency spans a range of technologies including JavaScript, React, Node.js, MongoDB (NoSQL), Express, HTML, and CSS. This breadth of knowledge enables me to craft bespoke web solutions that meet and exceed client expectations.
+Senior Full Stack Developer with 7 years of experience, including 6 years specialising in the MERN stack (MongoDB, Express, React, Node.js). Proficient in developing scalable, high-performance web applications with expertise in JavaScript, TypeScript, and modern frameworks.
 
-Throughout my career, I have been deeply engaged in all phases of the development lifecycle, from ideation to deployment. My solid grasp of web application architecture ensures that the solutions I create are not only functional but also scalable and efficient. Working alongside highly skilled and successful development teams, I have contributed to the delivery of impactful projects that make a difference.
+Experienced in team leadership, project management, and architectural decision-making, with a focus on delivering impactful, maintainable solutions. Skilled in mentoring teams, optimising performance, and ensuring code quality through best practices.
 
-I am enthusiastic about the opportunity to bring my expertise to your firm as a Full Stack Developer. Let us collaborate to develop cutting-edge web applications that push boundaries and drive success.
-
-Every role I’ve taken has been a purposeful step in my journey of growth and learning. I’m now eager to apply my experience and passion to a long-term opportunity where I can create meaningful impact and contribute to lasting success.
+Open to individual contributor roles and contractual opportunities, leveraging technical expertise and leadership to drive innovation. Every role has been a purposeful step in my growth journey, and I’m eager to create meaningful impact in my next challenge.
 
 - 💬 Ask me about Javascript, React, Node, Express & MongoDB (NoSQL).
 - 📫 Mail me: vivekkravindraa@gmail.com
