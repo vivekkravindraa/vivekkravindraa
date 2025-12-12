@@ -6,7 +6,7 @@ Software Engineer - III with 8 years of experience, including 7 years of deep Re
 
 Recognized for taking ownership of end-to-end delivery, filling leadership gaps, driving Agile processes, and improving engineering efficiency. Strong advocate for clean architecture, reusable component systems, cloud adoption (AWS), and performance-first engineering.
 
-Seeking Lead Engineer / Senior Full Stack roles that value impact, autonomy, and strong engineering judgment.
+Seeking Senior Full Stack roles that value impact, autonomy, and strong engineering judgment.
 
 - 💬 Ask me about Javascript, React, Node, Express & MongoDB (NoSQL).
 - 📫 Mail me: vivekkravindraa@gmail.com
