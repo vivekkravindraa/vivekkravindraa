@@ -2,7 +2,7 @@
 
 # Hello World! I'm Vivek 👋👨‍💻
 
-Lead Full Stack Engineer with 8 years of experience, including 7 years of deep React expertise and 5 years of Node.js development. Proven ability to lead engineering initiatives, drive architecture decisions, modernize front-end systems, and deliver high-quality, scalable products. Experienced in handling multi-team coordination, resolving delivery blockers, mentoring developers, and bringing engineering clarity to ambiguous environments.
+Software Engineer - III with 8 years of experience, including 7 years of deep React expertise and 5 years of Node.js development. Proven ability to lead engineering initiatives, drive architecture decisions, modernize front-end systems, and deliver high-quality, scalable products. Experienced in handling multi-team coordination, resolving delivery blockers, mentoring developers, and bringing engineering clarity to ambiguous environments.
 
 Recognized for taking ownership of end-to-end delivery, filling leadership gaps, driving Agile processes, and improving engineering efficiency. Strong advocate for clean architecture, reusable component systems, cloud adoption (AWS), and performance-first engineering.
 
