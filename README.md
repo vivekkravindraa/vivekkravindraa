@@ -8,7 +8,7 @@ Experienced in async communication, cross-time-zone coordination, and driving cl
 
 Strong advocate for clean architecture, shared component libraries, performance optimization, and cloud-native systems (AWS), with a focus on reliability and long-term maintainability.
 
-Seeking remote-first Senior Full Stack Engineer roles that prioritize trust, autonomy, and impact over hours logged.
+Seeking remote-first Senior Full Stack Engineer roles that prioritize trust, autonomy, impact, and outcomes over time-based measurement.
 
 - 💬 Ask me about Javascript, React, Node, Express & MongoDB (NoSQL).
 - 📫 Mail me: vivekkravindraa@gmail.com
