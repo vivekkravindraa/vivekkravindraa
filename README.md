@@ -2,11 +2,13 @@
 
 # Hello World! I'm Vivek 👋👨‍💻
 
-Senior Full-Stack Engineer (MERN) with 8 years of experience, including 7 years of deep React expertise and 5 years of Node.js development. Proven ability to lead engineering initiatives, drive architecture decisions, modernize front-end systems, and deliver high-quality, scalable products. Experienced in handling multi-team coordination, resolving delivery blockers, mentoring developers, and bringing engineering clarity to ambiguous environments.
+Senior Full Stack Engineer (MERN) with 8 years of experience, specializing in React, Node.js, and scalable web architectures. Proven ability to deliver independently, own complex systems, and collaborate effectively across distributed, remote teams.
 
-Recognized for taking ownership of end-to-end delivery, filling leadership gaps, driving Agile processes, and improving engineering efficiency. Strong advocate for clean architecture, reusable component systems, cloud adoption (AWS), and performance-first engineering.
+Experienced in async communication, cross-time-zone coordination, and driving clarity in ambiguous problem spaces. Known for taking ownership of delivery, mentoring remotely, and maintaining high engineering standards without close supervision.
 
-Seeking Senior Full Stack Engineer roles that value impact, autonomy, and strong engineering judgement.
+Strong advocate for clean architecture, shared component libraries, performance optimization, and cloud-native systems (AWS), with a focus on reliability and long-term maintainability.
+
+Seeking remote-first Senior Full Stack Engineer roles that prioritize trust, autonomy, and impact over hours logged.
 
 - 💬 Ask me about Javascript, React, Node, Express & MongoDB (NoSQL).
 - 📫 Mail me: vivekkravindraa@gmail.com
