@@ -5,7 +5,7 @@
 Senior Full Stack Engineer (MERN) with 7+ years of experience building scalable, cloud-native web platforms using React, Node.js, and AWS. Proven Lead IC with strong ownership of frontend systems, real-time architectures, and cross-team delivery in fully remote environments. Known for clean architecture, performance optimization, async collaboration, and mentoring engineers with a high degree of autonomy and accountability. Seeking remote-first roles that value autonomy, impact, and engineering excellence.
 
 - 💬 Ask me about Javascript, React, Node, Express & MongoDB (NoSQL).
-- 📫 Mail me: vivekkravindraa@gmail.com
+- 📫 Mail me: hello@vivekravindra.dev
 - 😄 Pronouns: He / Him
 - 🐣 Fun fact: I am trying to understand whether the egg has arrived first or the hen!
 
